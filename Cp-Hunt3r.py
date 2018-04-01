@@ -93,7 +93,7 @@ if sys.argv[1] == '-h':
             pass
 
 elif sys.argv[1] == '-i':
-    print "Info"
+    print "Cp-Hunt3r.py Verison 1.1"
     
 else:
     error(3)
